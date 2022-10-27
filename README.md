@@ -18,7 +18,7 @@
 <p align="center">
  <h2>     </h2>
 </p>
- <img style="padding-top:10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjoyPator1&hide=css&theme=dark&hide_langs_below=1"  />
+ <img style="padding-top:10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashPranit&hide=css&theme=dark&hide_langs_below=1"  />
 
 <a href="https://github.com/prakashPranit">
  <img style=”padding-top:30px;” align="right" src="https://github-readme-stats.vercel.app/api?username=prakashPranit&show_icons=true&theme=dracula&line_height=27" alt="Pranit Prakash's github stats"/>
